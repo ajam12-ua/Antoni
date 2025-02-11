@@ -1,3 +1,3 @@
 # Antoni
-🖥 Estudiante de la Universidad de Alicante /n
-👨‍💻 En proceso de Ingeniero
+#▪🖥 Estudiante de la Universidad de Alicante
+#▪👨‍💻 En proceso de Ingeniero
